@@ -14,11 +14,13 @@ Here are some ideas to get you started:
 -->
 
 
-<div align=center>
-  
+
+<div>
 [![1128msj](http://mazassumnida.wtf/api/v2/generate_badge?boj=1128msj)](https://solved.ac/1128msj)
  
-	
+ ✋Hi
+ </div>
+ <div align=center>
   [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fzzsza)](https://hits.seeyoufarm.com) 
 	
   </div>
