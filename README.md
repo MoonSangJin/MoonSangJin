@@ -13,14 +13,12 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<div align="left">
+<div>
 	
 
 [![1128msj](http://mazassumnida.wtf/api/v2/generate_badge?boj=1128msj)](https://solved.ac/1128msj)
  
-	
+[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=MoonSangJin)](https://github.com/anuraghazra/github-readme-stats)
+ 
 </div>
-<div align="right">
-	
- [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=MoonSangJin)](https://github.com/anuraghazra/github-readme-stats)
- </div>
+
