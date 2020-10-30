@@ -13,7 +13,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<div style="display:flex">
+<div align="center">
 	
 
 [![1128msj](http://mazassumnida.wtf/api/v2/generate_badge?boj=1128msj)](https://solved.ac/1128msj)
