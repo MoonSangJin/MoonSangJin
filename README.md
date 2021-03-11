@@ -15,6 +15,6 @@ Here are some ideas to get you started:
 
 
 
-[![1128msj](http://mazassumnida.wtf/api/v2/generate_badge?boj=1128msj)](https://solved.ac/1128msj)
 
-[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=MoonSangJin&show_icons=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
+<p align="center"><img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=1128msj"></p>
+<p align="center"><img src="https://github-readme-stats.vercel.app/api?username=MoonSangJin&show_icons=true&theme=tokyonight"></p>
