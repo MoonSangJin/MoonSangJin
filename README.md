@@ -44,19 +44,7 @@ Currently working at **SK Planet** on the **AI Data Platform** team, where I man
 
 ## 🌱 Interests
 
-- Open source contributions (exploring **Locust** load testing framework)
+- Open source contributions
 - Infrastructure optimization & performance tuning
 - Technical blogging & knowledge sharing
 - Building developer tools that make data teams more productive
-
----
-
-## 📊 GitHub Stats
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=default&hide_border=true)
-
----
-
-> _"Good data infrastructure is invisible — it just works."_
-
-📫 Feel free to reach out for collaboration on data engineering, platform tools, or open source projects.
