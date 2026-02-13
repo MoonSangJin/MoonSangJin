@@ -11,12 +11,9 @@ Currently working at **SK Planet** on the **AI Data Platform** team, where I man
 ### Data Infrastructure & Platform Engineering
 - Managing **1,900+ Hive tables** across **48 databases** on a large-scale Hadoop cluster
 - Leading **Hadoop 2 → 3 migration** for enterprise data infrastructure
-- Building **Sentinel** — an enterprise-wide data pipeline monitoring platform
-- Developing **QueryCache** — a data access control system integrated with Apache Ranger
 
 ### Data Access & Governance
 - Designing and implementing data access control architectures with **Apache Ranger**
-- Building Native Ranger Plugin integrations and policy synchronization workflows
 - Ensuring secure, governed access to data assets across the organization
 
 ### Text-to-SQL & Data Intelligence
