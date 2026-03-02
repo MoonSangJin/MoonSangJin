@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Sangjin
 
-**Data Engineer** building large-scale data infrastructure and pipeline systems.
+**Software Engineer** building large-scale data infrastructure and pipeline systems.
 
 Currently working at **SK Planet** on the **AI Data Platform** team, where I manage enterprise-grade Hadoop ecosystems and develop internal data platform tools that serve the entire organization.
 
