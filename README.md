@@ -42,9 +42,12 @@ Currently working at **SK Planet** on the **AI Data Platform** team, where I man
 
 ---
 
-## 🌱 Interests
+## 🚀 Open Source Contributions
+* [**langfuse/langfuse-python**](https://github.com/langfuse/langfuse-python) - Open-source LLM observability & analytics
+  * Contributed to [fix: apply stricter early routing for base64 media to prevent SSE dat…
+] ([#1544](https://github.com/langfuse/langfuse-python/pull/1544))
 
-- Open source contributions
-- Infrastructure optimization & performance tuning
-- Technical blogging & knowledge sharing
-- Building developer tools that make data teams more productive
+## 🌱 Interests
+* **Open Source**: Actively contributing to Python-based AI & data infrastructure projects.
+* **Optimization**: Infrastructure tuning and performance engineering for large-scale Hadoop clusters.
+* **Knowledge Sharing**: Technical blogging and building tools to boost data team productivity.
