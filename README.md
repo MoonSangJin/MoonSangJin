@@ -16,8 +16,8 @@ Currently working at **SK Planet** on the **AI Data Platform** team, where I man
 - Designing and implementing data access control architectures with **Apache Ranger**
 - Ensuring secure, governed access to data assets across the organization
 
-### Text-to-SQL & Data Intelligence
-- Exploring **Text-to-SQL** capabilities for Hive/HiveQL environments
+### AI Agent Engineering
+- Developing an LLM-powered **Text-to-SQL** Agent providing a natural language interface for complex Hive/HiveQL environments.
 - Analyzing complex BI-generated queries and building training datasets
 - Bridging the gap between natural language and enterprise data queries
 
