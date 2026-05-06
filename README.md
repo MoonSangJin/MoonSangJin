@@ -47,7 +47,7 @@ Currently working at **SK Planet** on the **AI Data Platform** team, where I man
   * Contributed to [fix: apply stricter early routing for base64 media to prevent SSE dat…
 ] ([#1544](https://github.com/langfuse/langfuse-python/pull/1544))
 * [**aws-samples/bedrock-access-gateway**](https://github.com/aws-samples/bedrock-access-gateway) - OpenAI-compatible API gateway for AWS Bedrock
-  * Contributed to [fix: sync pydantic models with openai spec] ([#241](https://github.com/aws-samples/bedrock-access-gateway/pull/241))
+  * Contributed to [fix: use None as default for max_tokens and prefer max_completion_tokens] ([#241](https://github.com/aws-samples/bedrock-access-gateway/pull/241))
 
 ## 🌱 Interests
 * **Open Source**: Actively contributing to Python-based AI & data infrastructure projects.
